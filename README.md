@@ -9,23 +9,23 @@
 可替换的物理部分包括软件代码、脚本或命令行文件，也可以表示运行时的对象，文档，数据库等。节点( node )是运行时的物理对象，代表一
 源。事务的图示如下：
 
-![image]()
+![image](https://github.com/rekcahtsebeht/SM/blob/main/1.drawio.png)
 
 **3、关系**
 
 组件图中的关系也 比较简单，主要是依赖和实现等，如下：
 
-![image]()
+![image](https://github.com/rekcahtsebeht/SM/blob/main/2.drawio.png)
 
 **4、实例**
 
 图中的构件名称是Dictionary字典。该构件向外提供两个接口，即两个服务Spell-check拼写检查、Synonyms同义词。
 
-![image]()
+![image](https://github.com/rekcahtsebeht/SM/blob/main/3.drawio.png)
 
 图中“Planner计划者”构件向外提供一个“update更新”接口服务。同时，该构件要求外部接口提供一个“Reservations预定”服务。
 
-![image]()
+![image](https://github.com/rekcahtsebeht/SM/blob/main/4.drawio.png)
 
 5、购票流程
 
@@ -42,4 +42,4 @@
 
 图示如下：
 
-![image]()
+![image](https://github.com/rekcahtsebeht/SM/blob/main/5.drawio.png)
