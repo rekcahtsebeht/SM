@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T05:51:48.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nErtib8ewXRhbgHKqqBm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T06:19:14.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="63nJdWJy4wAvSvdYRc1_" version="22.0.8" type="github">
   <diagram name="第 1 页" id="TH7aoE8-fnMF4B_7ixny">
-    <mxGraphModel dx="548" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4uQpLuL8sIcStSRhsGNj-1" value="Dictionary" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4uQpLuL8sIcStSRhsGNj-1" value="&lt;b&gt;Dictionary&lt;/b&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4uQpLuL8sIcStSRhsGNj-2" value="構件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -22,10 +22,10 @@
             <mxPoint x="290" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4uQpLuL8sIcStSRhsGNj-5" value="Spell-check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4uQpLuL8sIcStSRhsGNj-5" value="&lt;b&gt;Spell-check&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="188" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4uQpLuL8sIcStSRhsGNj-6" value="Synonyms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4uQpLuL8sIcStSRhsGNj-6" value="&lt;b&gt;Synonyms&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="218" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4uQpLuL8sIcStSRhsGNj-7" value="接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
