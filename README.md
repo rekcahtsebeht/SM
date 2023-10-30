@@ -27,9 +27,9 @@
 
 ![image](https://github.com/rekcahtsebeht/SM/blob/main/4.drawio.png)
 
-5、购票流程
+**5、购票流程**
 
-5.1 情景描述
+**5.1 情景描述**
 
 情景一：
 
