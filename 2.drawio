@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T05:31:25.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" version="22.0.8" etag="jbsRj_1NY0ANaFq7onAy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T05:35:44.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="B2p_2aLXkQ-vpYsf42qx" version="22.0.8" type="github">
   <diagram name="第 1 页" id="18CsInkHz1q6k2VZJF3P">
-    <mxGraphModel>
+    <mxGraphModel dx="560" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="550" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-1">
+          <mxGeometry width="550" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-3" value="關係名稱" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-2">
+          <mxGeometry width="183" height="80" as="geometry">
+            <mxRectangle width="183" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-4" value="含文" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-2">
+          <mxGeometry x="183" width="184" height="80" as="geometry">
+            <mxRectangle width="184" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-5" value="圖例" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-2">
+          <mxGeometry x="367" width="183" height="80" as="geometry">
+            <mxRectangle width="183" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-1">
+          <mxGeometry y="80" width="550" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-7" value="實現關係" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-6">
+          <mxGeometry width="183" height="80" as="geometry">
+            <mxRectangle width="183" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-8" value="構件向外提供的服務" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-6">
+          <mxGeometry x="183" width="184" height="80" as="geometry">
+            <mxRectangle width="184" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-6">
+          <mxGeometry x="367" width="183" height="80" as="geometry">
+            <mxRectangle width="183" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-1">
+          <mxGeometry y="160" width="550" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-11" value="依賴關係" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-10">
+          <mxGeometry width="183" height="80" as="geometry">
+            <mxRectangle width="183" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-12" value="構建依賴外部提供的服務" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-10">
+          <mxGeometry x="183" width="184" height="80" as="geometry">
+            <mxRectangle width="184" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYyCE9bRI5oO59rYMWB_-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hYyCE9bRI5oO59rYMWB_-10">
+          <mxGeometry x="367" width="183" height="80" as="geometry">
+            <mxRectangle width="183" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
