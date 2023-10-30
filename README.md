@@ -9,4 +9,4 @@
 可替换的物理部分包括软件代码、脚本或命令行文件，也可以表示运行时的对象，文档，数据库等。节点( node )是运行时的物理对象，代表一
 源。事务的图示如下：
 
-[image]()
+[image](https://github.com/rekcahtsebeht/SM/blob/main/1.drawio.png)
